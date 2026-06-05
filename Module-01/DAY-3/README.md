@@ -55,6 +55,9 @@ class Demo
 
 
 ## OUTPUT:
+<img width="425" height="162" alt="Screenshot 2026-06-05 135208" src="https://github.com/user-attachments/assets/87a61729-1dc8-4c21-9f35-381d68542a8d" />
+
+<img width="486" height="173" alt="Screenshot 2026-06-05 135245" src="https://github.com/user-attachments/assets/b62480c6-bcad-4869-8572-264cff53a978" />
 
 
 
