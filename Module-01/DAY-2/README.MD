@@ -24,8 +24,8 @@ b)	If the condition is false, print "false" using the 'print' method of 'System.
  ```
 /*
 Program to implement a variable and operators using Java
-Developed by: 
-RegisterNumber:  
+Developed by:  V.HARINI
+RegisterNumber:  212225040113
 */
 ```
 
@@ -63,6 +63,9 @@ class Demo
 
 ## OUTPUT:
 ![Output](Screenshot%202026-06-05%20131549.png)
+
+![Output](j_output2.png)
+
 
 
 ## RESULT:
