@@ -26,7 +26,7 @@ RegisterNumber:  212225040113
 ```
 
 ## Sourcecode.java:
-
+```
 class Student
 {
     String name;
@@ -42,7 +42,7 @@ public class Main
         System.out.println(obj.name+" "+obj.address);
     }
 }
-
+```
 
 ## OUTPUT:
 
